@@ -12,9 +12,9 @@ O pacote com todas suas características foi gerado na seguinte aula:
 
 ### Índice
 
-1. [https://youtu.be/6M_YpNrrtKM?t=22](Conceitos básicos: Github)
-2. [https://youtu.be/6M_YpNrrtKM?t=477](Usando PkgTemplates)
-    * [https://youtu.be/6M_YpNrrtKM?t=720](Numerando versões)
+1. [Conceitos básicos: Github](https://youtu.be/6M_YpNrrtKM?t=22)
+2. [Usando PkgTemplates](https://youtu.be/6M_YpNrrtKM?t=477)
+    * [Numerando versões](https://youtu.be/6M_YpNrrtKM?t=720)
 
 ## Instale com:
 
