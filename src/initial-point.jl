@@ -98,3 +98,10 @@ function initial_point(N,side,tol;seed=123)
   return p
 end
 
+# From data
+initial_point(data::Data;tol=0.9,seed=123) = initial_point(data.N,data.side,tol,seed=seed)
+
+
+
+
+
