@@ -6,7 +6,7 @@ simples e testes.
 
 O pacote com todas suas características foi gerado na seguinte aula:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/WMq1d_2Jy9Q/maxresdefault.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 Instale com:
 
