@@ -1,7 +1,7 @@
 name = "SimulacoesTemplate"
 uuid = "80a31ae1-e083-42e8-a1fe-13e9bfb4f088"
 authors = ["Leandro Martinez <leandro@iqm.unicamp.br> and contributors"]
-version = "0.2.1"
+version = "0.2.2"
 
 [deps]
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
