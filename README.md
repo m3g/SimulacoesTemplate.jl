@@ -6,10 +6,7 @@ simples e testes.
 
 O pacote com todas suas características foi gerado na seguinte aula:
 
-<iframe width="1280" height="720"
-src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope;
-picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 Instale com:
 
