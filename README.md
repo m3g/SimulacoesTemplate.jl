@@ -13,7 +13,7 @@ O pacote com todas suas características foi gerado na seguinte aula:
 ### Índice do vídeo
 
 1. [Conceitos básicos: Github](https://youtu.be/6M_YpNrrtKM?t=22)
-2. [Usando PkgTemplates](https://youtu.be/6M_YpNrrtKM?t=477)
+2. [Usando `PkgTemplates`](https://youtu.be/6M_YpNrrtKM?t=477)
     * [Numerando versões](https://youtu.be/6M_YpNrrtKM?t=720)
     * [Gerando o template](https://youtu.be/6M_YpNrrtKM?t=1209)
     * [Project.toml](https://youtu.be/6M_YpNrrtKM?t=1375)
@@ -22,8 +22,31 @@ O pacote com todas suas características foi gerado na seguinte aula:
     * [Fazendo upload de uma nova versão](https://youtu.be/6M_YpNrrtKM?t=2556)
 4. [Criando uma nova função](https://youtu.be/6M_YpNrrtKM?t=2817)
     * [Criando um teste](https://youtu.be/6M_YpNrrtKM?t=2886)
-4. [Criando uma nova função](https://youtu.be/6M_YpNrrtKM?t=2817)
-
+    * [Atualizando o pacote](https://youtu.be/6M_YpNrrtKM?t=3227)
+5. [Desenvolvimento o pacote localmente](https://youtu.be/6M_YpNrrtKM?t=3423)
+    * [Clonando o repositorio manualmente](https://youtu.be/6M_YpNrrtKM?t=3963)
+    * [Usando um fork](https://youtu.be/6M_YpNrrtKM?t=4117)
+    * [Criando um pull-request](https://youtu.be/6M_YpNrrtKM?t=4406)
+6. [Introduzindo funções no módulo principal](https://youtu.be/6M_YpNrrtKM?t=4680)
+    * [Incluindo arquivos](https://youtu.be/6M_YpNrrtKM?t=4870)
+    * [Exportando a função](https://youtu.be/6M_YpNrrtKM?t=4933)
+    * [Adicionando uma dependência](https://youtu.be/6M_YpNrrtKM?t=4953)
+    * [Distância usando PBC](https://youtu.be/6M_YpNrrtKM?t=5370)
+    * [Criando um teste](https://youtu.be/6M_YpNrrtKM?t=5500)
+    * [Função de energia potencial de um par de partículas](https://youtu.be/6M_YpNrrtKM?t=6136)
+7. [Estrutura de dados](https://youtu.be/6M_YpNrrtKM?t=6370)
+    * [Energia potencial de todas as partículas](https://youtu.be/6M_YpNrrtKM?t=6573)
+    * [Inicializando os dados](https://youtu.be/6M_YpNrrtKM?t=6897)
+    * [Criando geradores para os dados](https://youtu.be/6M_YpNrrtKM?t=7400)
+    * [Tipo de parâmetro de uma função](https://youtu.be/6M_YpNrrtKM?t=7876)
+    * [Tipos paramétricos e uniões](https://youtu.be/6M_YpNrrtKM?t=8015)
+    * [Usando `Parameters`](https://youtu.be/6M_YpNrrtKM?t=8249)
+    * [Adicionando uma entrada de `compat`](https://youtu.be/6M_YpNrrtKM?t=8450)
+8. [Instruções para modificar o pacote em adiante](https://youtu.be/6M_YpNrrtKM?t=9125)
+    * [Atualizando e testando o pacote](https://youtu.be/6M_YpNrrtKM?t=9372)
+    * [Criando um novo método para `initial_point`](https://youtu.be/6M_YpNrrtKM?t=9488)
+    * [Bebê caiu](https://youtu.be/6M_YpNrrtKM?t=9720)
+    * [Clonando o repositório](https://youtu.be/6M_YpNrrtKM?t=9975)
 
 ## Instale com:
 
