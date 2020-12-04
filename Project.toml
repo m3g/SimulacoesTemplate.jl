@@ -1,0 +1,13 @@
+name = "SimulacoesTemplate"
+uuid = "80a31ae1-e083-42e8-a1fe-13e9bfb4f088"
+authors = ["Leandro Martinez <leandro@iqm.unicamp.br> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
