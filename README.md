@@ -2,19 +2,27 @@
 
 Este pacote contém a implementação básica de uma função de energia
 potencial de um sistema bidimensional. Contém uma estrutura de dados
-simples e testes.  
+simples e testes. 
+
+## Conteúdo
 
 O pacote com todas suas características foi gerado na seguinte aula:
 
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/WMq1d_2Jy9Q/maxresdefault.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![YOUTUBE VIDEO]()](https://www.youtube.com/watch?v=6M_YpNrrtKM "Julia: Criando pacotes, estruturas, e desenvolvimento.")
 
-Instale com:
+### Índice
+
+1. [https://youtu.be/6M_YpNrrtKM?t=22](Conceitos básicos: Github)
+2. [https://youtu.be/6M_YpNrrtKM?t=477](Usando PkgTemplates)
+    * [https://youtu.be/6M_YpNrrtKM?t=720](Numerando versões)
+
+## Instale com:
 
 ```julia
 ] add https://github.com/m3g/SimulacoesTemplate.jl
 ```
 
-Uso elementar:
+## Uso elementar:
 
 ```julia
 julia> using SimulacoesTemplate
