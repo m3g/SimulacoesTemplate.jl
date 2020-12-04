@@ -1,7 +1,7 @@
 name = "SimulacoesTemplate"
 uuid = "80a31ae1-e083-42e8-a1fe-13e9bfb4f088"
 authors = ["Leandro Martinez <leandro@iqm.unicamp.br> and contributors"]
-version = "0.1.1"
+version = "0.1.2"
 
 [compat]
 julia = "1"
