@@ -8,13 +8,22 @@ simples e testes.
 
 O pacote com todas suas características foi gerado na seguinte aula:
 
-[![YOUTUBE VIDEO]()](https://www.youtube.com/watch?v=6M_YpNrrtKM "Julia: Criando pacotes, estruturas, e desenvolvimento.")
+[![YOUTUBE VIDEO](https://raw.githubusercontent.com/m3g/SimulacoesTemplate.jl/master/docs/video_image.png)](https://www.youtube.com/watch?v=6M_YpNrrtKM "Julia: Criando pacotes, estruturas, e desenvolvimento.")
 
-### Índice
+### Índice do vídeo
 
 1. [Conceitos básicos: Github](https://youtu.be/6M_YpNrrtKM?t=22)
 2. [Usando PkgTemplates](https://youtu.be/6M_YpNrrtKM?t=477)
     * [Numerando versões](https://youtu.be/6M_YpNrrtKM?t=720)
+    * [Gerando o template](https://youtu.be/6M_YpNrrtKM?t=1209)
+    * [Project.toml](https://youtu.be/6M_YpNrrtKM?t=1375)
+    * [runstests.jl](https://youtu.be/6M_YpNrrtKM?t=1748)
+3. [Criando um repositório para o pacote](https://youtu.be/6M_YpNrrtKM?t=1780)
+    * [Fazendo upload de uma nova versão](https://youtu.be/6M_YpNrrtKM?t=2556)
+4. [Criando uma nova função](https://youtu.be/6M_YpNrrtKM?t=2817)
+    * [Criando um teste](https://youtu.be/6M_YpNrrtKM?t=2886)
+4. [Criando uma nova função](https://youtu.be/6M_YpNrrtKM?t=2817)
+
 
 ## Instale com:
 
