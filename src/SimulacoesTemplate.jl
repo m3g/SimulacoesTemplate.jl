@@ -1,7 +1,14 @@
 module SimulacoesTemplate
+ 
+  include("Data.jl")
+  export Data
 
-  f(x) = 2*x
+  include("./initial-point.jl")
+  export initial_point
 
-  export f
+  include("./rpbc.jl") 
+  include("./upair.jl")
+  include("./utotal.jl")
+  export utotal
 
 end
