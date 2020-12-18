@@ -8,7 +8,7 @@ simples e testes.
 
 1. [Implementação inicial](#impl)
 2. [Instalação](#install)
-3. [Paralelização do cálculo de interaçoes](#parallel)
+3. [Paralelização do cálculo de interações](#parallel)
 
 ## O pacote com todas suas características foi gerado na seguinte aula: <a name="impl"></a>
 
