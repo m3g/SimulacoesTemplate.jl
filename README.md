@@ -6,7 +6,7 @@ simples e testes.
 
 ## Conteúdo
 
-O pacote com todas suas características foi gerado na seguinte aula:
+### O pacote com todas suas características foi gerado na seguinte aula:
 
 [![YOUTUBE VIDEO](https://raw.githubusercontent.com/m3g/SimulacoesTemplate.jl/master/docs/video_image.png)](https://www.youtube.com/watch?v=6M_YpNrrtKM "Julia: Criando pacotes, estruturas, e desenvolvimento.")
 
@@ -92,6 +92,14 @@ julia> utotal(p,data)
 9323.71350809503
 
 ```
+
+### Paralelização do cálculo das interações
+
+As funções em `utotal_parallel` foram implementadas na seguinte aula:
+
+[![YOUTUBE VIDEO](https://raw.githubusercontent.com/m3g/SimulacoesTemplate.jl/master/docs/aula_parallel.png)](https://youtu.be/V70tvYdv8QY "Paralelizando o cálculo das interações.")
+
+
 
 
 
