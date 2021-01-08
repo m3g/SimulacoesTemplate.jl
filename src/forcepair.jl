@@ -13,8 +13,8 @@ function forcepair(x,y,r,data)
   sigfac2 = 6*(data.sig6/r7)
 
   upair = data.eps4*(data.sig12/r12 - data.sig6/r6)  
-  fx = ( data.eps4*(sigfac1*drdx1 + sigfac2*drdx2), 
-         data.eps4*(sigfac2*drdx2 + sigfac2*drdx2) )
+  fx = ( -data.eps4*(sigfac1 + sigfac2)*drdx1, 
+         -data.eps4*(sigfac2 + sigfac2)*drdx2 ) 
 
   return upair, fx
 end
