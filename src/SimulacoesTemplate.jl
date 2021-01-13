@@ -4,7 +4,8 @@ module SimulacoesTemplate
   export Data
 
   include("./initial-point.jl")
-  export initial_point
+  include("./initial-velocities.jl")
+  export initial_point, initial_velocities
 
   include("./rpbc.jl") 
   include("./upair.jl")
