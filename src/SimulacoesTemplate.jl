@@ -24,4 +24,7 @@ module SimulacoesTemplate
   include("./energyandforce.jl")
   export energyandforce!
 
+  include("./simulate.jl")
+  export simulate
+
 end
