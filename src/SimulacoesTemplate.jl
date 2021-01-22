@@ -20,6 +20,7 @@ module SimulacoesTemplate
   export utotal_parallel1
   export utotal_parallel2
 
+  include("./wrap.jl")
   include("./forcepair.jl")
   include("./energyandforce.jl")
   export energyandforce!

@@ -9,7 +9,8 @@ function energyandforce!(p,f,data)
   end
   for ip in 1:data.N-1
     for jp in ip+1:data.N
-      rij = rpbc(p[ip],p[jp],data.side)
+      wrap!(p[ip],p[jp],data.side)
+      rij = sqrt( (p[ip][1]-p[jp][1])^2 + (p[ip][2]-p[jp][2])^2 )
       if rij < data.cutoff
         upair, fpair = forcepair(p[ip],p[jp],rij,data)
         utotal += upair
